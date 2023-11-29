@@ -1,0 +1,12 @@
+body {
+    background-color: goldenrod;
+    font-family: Georgia;
+
+}
+
+.photo1 {
+    width: 25vw;
+    float: center;
+    border-radius: 200px;
+    border: 1px;
+}
